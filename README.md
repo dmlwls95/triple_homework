@@ -10,7 +10,7 @@
 {
   "name": "이름"
 }
-
+```
 ##파일 구조
 ```
 triple_club_mileage
