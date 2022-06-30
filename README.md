@@ -30,9 +30,8 @@ triple_club_mileage
  ┣ package.json
  ┣ server.js
  ┗ triple_ddl.sql
+```
 
-```
-```
 ## 부가 설명
 ```
 ORM(Sequelize 라이브러리)를 사용하여 개발했습니다. ddl을 사용하지 않아도 자동으로 DB가 생성됩니다.
